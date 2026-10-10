@@ -36,7 +36,7 @@ description: A live scrolling response visualization with smooth animations.
       ::
 
       ```bash
-      npm install vue-stream-markdown@2.0.0 @stream-markdown/code@2.0.0 @stream-markdown/math@2.0.0 @stream-markdown/mermaid@2.0.0 katex
+      npm install vue-stream-markdown @stream-markdown/code @stream-markdown/math @stream-markdown/mermaid katex
       ```
 
       ::step

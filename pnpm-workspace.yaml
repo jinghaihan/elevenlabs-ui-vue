@@ -15,10 +15,10 @@ allowBuilds:
   workerd: true
 
 minimumReleaseAgeExclude:
-  - '@markmend/core@2.0.0'
-  - '@markmend/parser@2.0.0'
-  - '@stream-markdown/code@2.0.0'
-  - '@stream-markdown/core@2.0.0'
-  - '@stream-markdown/math@2.0.0'
-  - '@stream-markdown/mermaid@2.0.0'
-  - vue-stream-markdown@2.0.0
+  - '@markmend/core@2.1.0'
+  - '@markmend/parser@2.1.0'
+  - '@stream-markdown/code@2.1.0'
+  - '@stream-markdown/core@2.1.0'
+  - '@stream-markdown/math@2.1.0'
+  - '@stream-markdown/mermaid@2.1.0'
+  - vue-stream-markdown@2.1.0
